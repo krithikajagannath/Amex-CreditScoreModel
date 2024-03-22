@@ -12,9 +12,11 @@ The dataset comprises financial records and personal information of Amex custome
 **Data Cleaning:** 
 
 Removed duplicates, handled missing values, and corrected data inconsistencies.
+
 **Feature Engineering:**
 
 Created new features that capture customer behavior and financial health from existing data.
+
 **Model Building**
 
 We utilized the Weight of Evidence (WoE) method to transform categorical variables into numerical scores, facilitating logistic regression analysis.
