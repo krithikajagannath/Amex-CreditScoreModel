@@ -24,6 +24,7 @@ We utilized the Weight of Evidence (WoE) method to transform categorical variabl
 **Model Selection:** 
 
 Explored various statistical models, finally choosing logistic regression for its interpretability and efficiency in binary classification tasks.
+
 **Training and Validation:** 
 
 Employed cross-validation techniques to ensure model robustness and minimize overfitting.
